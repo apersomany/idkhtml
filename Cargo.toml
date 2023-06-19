@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Donghyun Shin <aperso@aperso.dev>"]
 description = "A blazing fast HTML parser"
 documentation = "https://docs.rs/idkhtml"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
